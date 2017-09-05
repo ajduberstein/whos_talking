@@ -1,0 +1,10 @@
+categorized_data/
+raw_data/
+matrices/
+env/
+
+.floydignore
+.floydexpt
+
+.ipynb_checkpoints/
+*.pyc
